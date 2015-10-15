@@ -12,7 +12,8 @@ help:
 	@echo "  db_upgrade         : create the db tables"
 	@echo "  db_downgrade       : destroy the db tables"
 	@echo "  db_bake            : generate the controllers, models, views, test cases, and fixtures"
-	@echo "  db_show_data       : list the rows in the db"
+	@echo "  db_show_tables     : show the table descriptions"
+	@echo "  db_show_data       : show the table rows"
 	@echo "  app_start          : start the php embedded server to serve the app"
 	@echo "  clean              : remove all created files"
 
