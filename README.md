@@ -31,3 +31,5 @@ in order add a a new "route" to your app:
 # Test the new feature
 
 Go to [http://localhost:8765/bookmarks/tagged/cakephp/](http://localhost:8765/bookmarks/tagged/cakephp/)
+
+[![Tagged bookmarks](img/cake_bookmarks_tagged.png)]()
