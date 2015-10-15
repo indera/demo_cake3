@@ -1,0 +1,13 @@
+
+-- Create the tables
+
+(root@localhost) [my_app]> show tables;
++------------------+
+| Tables_in_my_app |
++------------------+
+| bookmarks        |
+| bookmarks_tags   |
+| tags             |
+| users            |
++------------------+
+4 rows in set (0.00 sec)
